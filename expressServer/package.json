@@ -1,0 +1,26 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@types/mongoose": "^5.11.97",
+    "bcrypt": "^5.0.0",
+    "config": "^3.3.1",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.1",
+    "flatted": "^3.1.1",
+    "joi": "^17.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.0.1",
+    "socket.io": "^4.1.2",
+    "underscore": "^1.13.1"
+  }
+}

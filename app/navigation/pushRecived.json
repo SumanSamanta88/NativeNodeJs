@@ -1,0 +1,40 @@
+{
+    "date": 1624518973339,
+    "request": {
+        "content": {
+            "autoDismiss": true,
+            "badge": null,
+            "body": "Hello",
+            "data": {
+                "_displayInForeground": true
+            },
+            "sound": "default",
+            "sticky": false,
+            "subtitle": null,
+            "title": null
+        },
+        "identifier": "0:1624518973342107%0ac519e6f9fd7ecd",
+        "trigger": {
+            "channelId": null,
+            "remoteMessage": {
+                "collapseKey": null,
+                "data": {
+                    "body": "{\"_displayInForeground\":true}",
+                    "experienceId": "UNVERIFIED-192.168.1.8-utility",
+                    "message": "Hello",
+                    "scopeKey": "UNVERIFIED-192.168.1.8-utility",
+                },
+                "from": "367315174693",
+                "messageId": "0:1624518973342107%0ac519e6f9fd7ecd",
+                "messageType": null,
+                "notification": null,
+                "originalPriority": 2,
+                "priority": 2,
+                "sentTime": 1624518973339,
+                "to": null,
+                "ttl": 2419200
+            },
+            "type": "push"
+        }
+    }
+}
